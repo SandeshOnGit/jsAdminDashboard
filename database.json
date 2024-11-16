@@ -1,0 +1,74 @@
+{
+  "customer": [
+    {
+      "fname": "Strawberry",
+      "quantity": "2 Kg",
+      "price": "100$",
+      "cname": "Renna",
+      "omode": "Offline/Store",
+      "bill": "Paid",
+      "pmode": "Cash",
+      "id": "955a"
+    },
+    {
+      "fname": "Grapes",
+      "quantity": "1 Kg",
+      "price": "60$",
+      "cname": "Vihan",
+      "omode": "Offline/Store",
+      "bill": "Paid",
+      "pmode": "UPI",
+      "id": "4087"
+    },
+    {
+      "id": "7235",
+      "fname": "Muskmelon",
+      "quantity": "3 Kg",
+      "price": "150$",
+      "cname": "Elon",
+      "omode": "Online/Site",
+      "bill": "Paid",
+      "pmode": "Card"
+    },
+    {
+      "fname": "Mangos",
+      "quantity": "1Kg",
+      "price": "200$",
+      "cname": "Bhupendra",
+      "omode": "Online/Cash",
+      "bill": "Paid",
+      "pmode": "Card",
+      "id": "608d"
+    },
+    {
+      "fname": "Banana",
+      "quantity": "12 Dozen",
+      "price": "3400$",
+      "cname": "Dilkush Singh",
+      "omode": "Online/Cash",
+      "bill": "Paid",
+      "pmode": "Card",
+      "id": "4f26"
+    },
+    {
+      "fname": "Strawberry",
+      "quantity": "10Kg",
+      "price": "150$",
+      "cname": "Micheal",
+      "omode": "Online/Cash",
+      "bill": "Paid",
+      "pmode": "Card",
+      "id": "09f8"
+    },
+    {
+      "fname": "Mango",
+      "quantity": "5 Kg",
+      "price": "130 $",
+      "cname": "Satwik",
+      "omode": "Online",
+      "bill": "Paid",
+      "pmode": "UPI",
+      "id": "0f45"
+    }
+  ]
+}
